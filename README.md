@@ -1,2 +1,2 @@
-# openrunes
-An open runes BTC example app.
+# Open Runes App
+A BTC runes example app.
